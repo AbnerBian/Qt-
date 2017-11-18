@@ -10,3 +10,6 @@
 
   ​
 
+- 菜单栏必须是mainwindow才能才能designer创建，否则自己创建
+
+- ​
